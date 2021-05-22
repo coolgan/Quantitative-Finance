@@ -2,6 +2,8 @@
 
 一些面向q-quant或Asset Pricing领域的简（xue）单（shu）实（la）证（ji）
 
+如有大佬指点挑错，必感激不尽！！！
+
 **文件说明**
 
 * Risk Neutral Implied Skew
