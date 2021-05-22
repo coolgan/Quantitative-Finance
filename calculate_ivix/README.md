@@ -13,7 +13,9 @@ $$
 
 ## 数据来源
 
-计算IVIX所用到的SHIBOR和期权价格完全来自tushare
+计算IVIX所用到的SHIBOR和上证50ETF期权价格完全来自tushare
+
+**如果想算300ETF期权的IVIX或300股指期权IVIX，只需要在提取期权价格的代码中修改交易所和期权标的资产的参数即可**
 
 ivixx.csv是真实的IVIX报价，来自WIND数据库
 
