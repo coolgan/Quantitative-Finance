@@ -6,7 +6,7 @@
 
 * Risk Neutral Implied Skew
   * 关于风险中性方差和风险中性偏度的计算
-* calculate_ivix
+* [calculate_ivix](https://github.com/coolgan/Quantitative-Finance/tree/master/calculate_ivix)
   * 基于tushare实现中国波指IVIX的计算
 * implied market depth
   * 一篇关于隐含市场深度的国内论文的复现。。。
