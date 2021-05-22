@@ -3,13 +3,13 @@
 ## IVIX计算公式：
 
 
-$$
+$
 \sigma_{近月}^2 = \frac{2}{T}\Sigma_{i}\frac{\Delta K_i}{K_i}e^{RT}P(K_i) - \frac{1}{T}[\frac{F}{K_0} - 1]^2
-$$
+$
 
-$$
+$
 IVIX = 100\times \sqrt{\{ T_1 \sigma_1^2[\frac{NT_2 - NT_{30}}{NT_2 - NT_1}] \} + \{ T_2 \sigma_2^2[\frac{NT_{30} - NT_{1}}{NT_2 - NT_1}] \} \times\frac{N_{365}}{N_{30}}}
-$$
+$
 
 ## 数据来源
 
