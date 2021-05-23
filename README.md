@@ -16,3 +16,5 @@
   * 基于tushare实现总偏度因子和最大日收益因子的收益率计算、因子检验等，以及一些无聊发现
 * [卑微但能用的波动率曲面速成法](https://github.com/coolgan/Quantitative-Finance/blob/master/Bw_ivsurface.ipynb)
   * 基于爬虫实时计算的上证50ETF期权、沪深300股指期权波动率曲面
+* [利率期限结构的静态拟合](https://github.com/coolgan/Quantitative-Finance/blob/master/%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84%E9%9D%99%E6%80%81%E6%8B%9F%E5%90%88.ipynb)
+  * 主要包括Cubic poly, Cubic spline, Cubic Hermitte spline, NS以及NSS model
