@@ -1,6 +1,6 @@
 # Quantitative Finance
 
-一些q-quant和因子投资领域的简（xue）单（shu）实（la）证（ji）汇总
+一些q-quant和asset pricing领域的简（xue）单（shu）实（la）证（ji）汇总
 
 **Q-quant系列**
 
