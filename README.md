@@ -18,3 +18,5 @@
   * 基于爬虫实时计算的上证50ETF期权、沪深300股指期权波动率曲面
 * [利率期限结构的静态拟合](https://github.com/coolgan/Quantitative-Finance/blob/master/%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84%E9%9D%99%E6%80%81%E6%8B%9F%E5%90%88.ipynb)
   * 主要包括Cubic poly, Cubic spline, Cubic Hermitte spline, NS以及NSS model
+* [Volatility-Managed Portfolios: Sometimes it Works](https://github.com/coolgan/Volatility-Managed-Portfolios-Sometimes-it-Works)
+  * 基于Moreira and Muir（2017, JF）构建A股市场的波动率管理组合（Volatility-Managed Portfolio），并结合Liu et al.（2019, JPM）对VMP进行样本外测试
